@@ -8,13 +8,14 @@
 
 ### 3. Can content fill my gap on knowledge? 
 
-### 4. Is it really important knowledge that I will use?
+### 4. Is it really important knowledge practically?
 
 ## Not based on 
 
 ### 1. views
 
 ### 2. Presenter's fame
+
 
 OS
 
@@ -63,3 +64,9 @@ https://www.youtube.com/watch?v=tamj4B7OALc&list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBad
 Abstract algebra
 
 https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6
+
+Compiler
+https://www.youtube.com/watch?v=KwpcOYKfXZc&list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd
+
+Information and Intelligence
+https://www.youtube.com/channel/UCsTLxzflxRK2pbP99MIjQSA/playlists
