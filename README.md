@@ -73,3 +73,7 @@ Compiler
 Information and Intelligence
 
 [information and intelligence](https://www.youtube.com/channel/UCsTLxzflxRK2pbP99MIjQSA/playlists)
+
+Virtual memory
+
+[David Black-Schaffer](https://www.youtube.com/watch?v=qlH4-oHnBb8&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=3)
