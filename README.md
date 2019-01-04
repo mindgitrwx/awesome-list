@@ -76,4 +76,8 @@ Information and Intelligence
 
 Virtual memory
 
-[David Black-Schaffer](https://www.youtube.com/watch?v=qlH4-oHnBb8&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=3)
+[information and intelligence](https://www.youtube.com/channel/UCsTLxzflxRK2pbP99MIjQSA/playlists)
+
+Cppcon
+
+[Cppcon](https://www.youtube.com/user/CppCon/playlists)
