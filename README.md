@@ -70,9 +70,9 @@
 
 [Creating a Compiler, Bisqwit](https://www.youtube.com/watch?v=KwpcOYKfXZc&list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd)
 
-##### Information and Intelligence
+##### Database
 
-[information and intelligence](https://www.youtube.com/channel/UCsTLxzflxRK2pbP99MIjQSA/playlists)
+[CMU Database Group](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA)
 
 ##### Virtual memory
 
@@ -85,3 +85,9 @@ information and intelligence
 ##### Cppcon
 
 [Cppcon](https://www.youtube.com/user/CppCon/playlists)
+
+### Korean Lectures
+
+##### Information and Intelligence
+
+[information and intelligence](https://www.youtube.com/channel/UCsTLxzflxRK2pbP99MIjQSA/playlists)
