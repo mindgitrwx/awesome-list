@@ -91,3 +91,7 @@ information and intelligence
 ##### Information and Intelligence
 
 [information and intelligence](https://www.youtube.com/channel/UCsTLxzflxRK2pbP99MIjQSA/playlists)
+
+##### Modu deep learning
+
+[modu deep learning](https://www.youtube.com/channel/UCML9R2ol-l0Ab9OXoNnr7Lw)
